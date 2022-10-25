@@ -1,6 +1,6 @@
 # Bagaimana Mengkonversi Banyak file Gambar ke banyak file PDF dengan Python?
 
-'img2pdf' adalah paket Python open source untuk mengonversi gambar ke format pdf. Ini termasuk modul 'pillow' yang juga dapat digunakan untuk meningkatkan gambar (Kecerahan, kontras dan hal-hal lain)
+`img2pdf` adalah paket Python open source untuk mengonversi gambar ke format pdf. Ini termasuk modul `pillow` yang juga dapat digunakan untuk meningkatkan gambar (Kecerahan, kontras dan hal-hal lain)
 
 Gunakan perintah ini untuk menginstal paket
 
@@ -9,7 +9,7 @@ pip install img2pdf
 ```
 
 Di bawah ini adalah implementasinya:
-Gambar dapat dikonversi menjadi byte pdf menggunakan fungsi 'img2pdf.convert()' yang disediakan oleh modul img2pdf, kemudian file pdf dibuka dalam mode 'wb' dan ditulis dengan byte.
+Gambar dapat dikonversi menjadi byte pdf menggunakan fungsi `img2pdf.convert()` yang disediakan oleh modul img2pdf, kemudian file pdf dibuka dalam mode `wb` dan ditulis dengan byte.
 
 Nama Folder
 ```
