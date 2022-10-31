@@ -47,12 +47,12 @@ def main():
     print("------------- file hasil link2jpg2 (tanpa .csv)-------------")
     file_csv = input("*Nama File CSV: ")
 
-    path_csv = os.getcwd() +'/'+ split_name(file_csv) +'/'+ file_csv
+    path_csv = os.getcwd() +'/'+ split_name(file_csv) +'/'
     print('---baca csv---')
     print(path_csv)
     print(split_name(file_csv))
 
-    with open(path_csv + '.csv') as f:
+    with open(path_csv + file_csv + '.csv') as f:
         array_gambar = [s for line in f.readlines() for s in line[:-1].split(',')]
         #print(array_gambar)
 
@@ -62,19 +62,19 @@ def main():
             #file_csv = input("*Nama File CSV: ")
 
             # storing image path
-            img_path = "D:/MEDIA-KT/PY/KT-PEMKAB-SERUYAN-10/"
+            #img_path = "D:/MEDIA-KT/PY/KT-PEMKAB-SERUYAN-11/"
             
             # storing pdf path
-            pdf_path = "D:/MEDIA-KT/PY/KT-PEMKAB-SERUYAN-10/"
+            #pdf_path = "D:/MEDIA-KT/PY/KT-PEMKAB-SERUYAN-11/"
             
             # opening image
-            image = Image.open(img_path+file_png)
+            image = Image.open(path_csv+file_png)
             
             # converting into chunks using img2pdf
             pdf_bytes = img2pdf.convert(image.filename)
             
             # opening or creating pdf file
-            file = open(pdf_path+file_png+'.pdf', "wb")
+            file = open(path_csv+file_png+'.pdf', "wb")
             
             # writing pdf files with chunks
             file.write(pdf_bytes)
