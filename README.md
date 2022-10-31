@@ -23,18 +23,18 @@ KT-PEMKAB-SERUYAN-10.csv
 
 Isi File .csv
 ```
-2022-10-01-bupati-seruyan-pimpin-upacara-peringatan-hari-kesaktian-pancasila.jpg-hefo.png
-2022-10-01-bupati-seruyan-apresiasi-upaya-optimalisasi-pad.jpg-hefo.png
-2022-10-01-pemkab-seruyan-dan-kanwil-kemenkumham-kalteng-matangkan-rencana-pembangunan-lapas.jpg-hefo.png
-2022-10-03-bupati-harapkan-politeknik-seruyan-jadi-perguruan-tinggi-terdepan.jpg-hefo.png
+2022-10-01-bupati-seruyan-pimpin-upacara-peringatan-hari-kesaktian-pancasila.jpg-kt.png
+2022-10-01-bupati-seruyan-apresiasi-upaya-optimalisasi-pad.jpg-kt.png
+2022-10-01-pemkab-seruyan-dan-kanwil-kemenkumham-kalteng-matangkan-rencana-pembangunan-lapas.jpg-kt.png
+2022-10-03-bupati-harapkan-politeknik-seruyan-jadi-perguruan-tinggi-terdepan.jpg-kt.png
 ```
 
 Hasil File .PDF
 ```
-2022-10-01-bupati-seruyan-pimpin-upacara-peringatan-hari-kesaktian-pancasila.jpg-hefo.pdf
-2022-10-01-bupati-seruyan-apresiasi-upaya-optimalisasi-pad.jpg-hefo.pdf
-2022-10-01-pemkab-seruyan-dan-kanwil-kemenkumham-kalteng-matangkan-rencana-pembangunan-lapas.jpg-hefo.pdf
-2022-10-03-bupati-harapkan-politeknik-seruyan-jadi-perguruan-tinggi-terdepan.jpg-hefo.pdf
+2022-10-01-bupati-seruyan-pimpin-upacara-peringatan-hari-kesaktian-pancasila.jpg-kt.pdf
+2022-10-01-bupati-seruyan-apresiasi-upaya-optimalisasi-pad.jpg-kt.pdf
+2022-10-01-pemkab-seruyan-dan-kanwil-kemenkumham-kalteng-matangkan-rencana-pembangunan-lapas.jpg-kt.pdf
+2022-10-03-bupati-harapkan-politeknik-seruyan-jadi-perguruan-tinggi-terdepan.jpg-kt.pdf
 ```
 
 Ref :  
